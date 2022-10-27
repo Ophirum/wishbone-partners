@@ -1,0 +1,70 @@
+.firm{
+	font-size: 32px;
+	line-height: 38px;
+	color: #403E3B;
+}
+
+.second-block{
+	margin: 96px 344px 128px 336px;
+	display: flex;
+}
+
+.about-firm-text{
+	line-height: 24px;
+	color: #403E3B;
+	margin-bottom: 10px;
+}
+
+.about-firm{
+	display: flex;
+	flex-direction: column;
+	width: 62%;
+}
+.firm{
+	padding-right: 133px;
+}
+.about-name-man{
+	font-size: 17px;
+	line-height: 26px;
+	color: #1B1A1A;
+	margin: 0;
+}
+
+.about-proff-man{
+	font-size: 14px;
+	line-height: 14px;
+	color: #645C55;
+	margin: 0;
+}
+.about-image{
+	display: flex;
+	margin-top: 8px;
+}
+
+.about-image-text{
+	margin: 20px 0 0px 30px;
+}
+
+.house{
+	background: url(../img/third-block.svg);
+	height: 600px;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+}
+.house-about{
+	margin: 266px 75px 0 0;
+	width: 20%;
+}
+.house-text-main{
+	font-size: 14px;
+	line-height: 20px;
+	letter-spacing: 2px;
+	color: #403E3B;
+	margin-bottom: 2px;
+}
+.house-text{
+	font-size: 16px;
+	line-height: 24px;
+	color: #645C55
+}

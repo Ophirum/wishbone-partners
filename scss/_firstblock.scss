@@ -1,0 +1,38 @@
+.first-block {
+	background: #ECE7E4;
+	display: flex;
+	justify-content: space-between;
+}
+.text-block{
+	padding: 137px 0px 90px 100px;
+}
+
+.text-logo {
+	margin-bottom: 20px;
+	font-size: 14px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	line-height: 20px;
+}
+
+.text-bold{
+	margin-bottom: 18px;
+	font-size: 64px;
+	width: 417px;
+	line-height: 70px;
+	color: #1B1A1A;
+}
+
+.text-description{
+	font-size: 16px;
+	line-height: 24px;
+	color: #403E3B;
+	margin-bottom: 41px;
+	width: 509px;
+}
+
+.proceed{
+	letter-spacing: 0.4px;
+	color: #1B1A1A;
+}
+

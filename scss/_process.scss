@@ -1,0 +1,64 @@
+.process-block{
+	margin: 100px 0px 110px 0px;
+}
+.process-main-text{
+	text-align: center;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	font-size: 14px;
+	line-height: 20px;
+	color: #645C55;
+}
+
+.process-main-theme{
+	font-size: 39px;
+	line-height: 42px;
+	text-align: center;
+	color: #1B1A1A;
+	margin-bottom: 47px;
+}
+
+.process-name{
+	font-size: 18px;
+	line-height: 26px;
+	text-align: center;
+	color: #403E3B;
+	margin-bottom: 10px;
+}
+
+.process-text{
+	font-size: 15px;
+	line-height: 24px;
+	text-align: center;
+	color: #645C55;
+}
+
+.process{
+	display: flex;
+	margin: 0px 130px 110px 70px;
+}
+
+.process-item{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.process-img{
+	width: 117px;
+	height: 102px;
+	margin-bottom: 15px;
+}
+
+.process-text-width3{
+	width: 64%;
+}
+.process-text-width2{
+	width: 80%;
+}
+.process-text-width1{
+	width: 60%;
+}
+
+.house-stairs{
+	background: url(../img/house-stairs.svg);
+}
