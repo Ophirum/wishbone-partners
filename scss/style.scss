@@ -6,37 +6,50 @@
 body{
 	font-family: 'Poppins', sans-serif;
 }
-navbar-brad img{
+.navbar-brad img
+{
 	width: 220px;
 }
-.navbar-text a{
+
+.navbar-text a
+{
 	text-decoration: none;
 	color: #1B1A1A;
 }
-.navbar{
+
+.navbar
+{
 	display: flex;
 	justify-content: space-between;
 	margin: 0 140px 0 152px;
 	padding-top: 33px;
 	padding-bottom: 35px;
 }
-.navbar-list{
+
+.navbar-list
+{
 	display: flex;
 	justify-content: space-between;
 	gap: 32px;
 	margin-bottom: 0;
 	list-style-type: none;
 }
-.navbar-text{
+
+.navbar-text
+{
 	font-size: 15px;
 	text-decoration: none;
 }
-.navbar-white-text a{
+
+.navbar-white-text a
+{
 	border-radius: 14px;
 	color: #FFFFFF;
 	font-size: 16px;
 }
-.navbar-white-text{
+
+.navbar-white-text
+{
 	background: #1B1A1A;
 	border-radius: 14px;
 	width: 144px;
@@ -44,7 +57,9 @@ navbar-brad img{
 	text-align: center;
 }
 
-.link-hover:hover{
+.link-hover:hover
+{
 	color: #ae5b3c;
+}	
 	transition: 0.5s;
 }
